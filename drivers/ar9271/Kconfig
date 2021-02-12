@@ -1,0 +1,6 @@
+config AR9271
+	tristate "Atheros AR9271 USB WiFi"
+	depends on USB
+	help
+	  Help message of AR9271
+
